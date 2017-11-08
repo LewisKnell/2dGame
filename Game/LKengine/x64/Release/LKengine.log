@@ -1,0 +1,47 @@
+﻿  audioEngine.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\audioEngine.h(6): fatal error C1083: Cannot open include file: 'SDL\SDL_mixer.h': No such file or directory
+  camera2D.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\camera2D.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  debugRenderer.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\shaderProgram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  GUI.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\GUI.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  imageLoader.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\GLTexture.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  lMainGame.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\window.h(3): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  inputManager.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\inputManager.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  ioManager.cpp
+ioManager.cpp(20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+ioManager.cpp(26): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+ioManager.cpp(49): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+ioManager.cpp(55): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  LKengine.cpp
+LKengine.cpp(6): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  myErrors.cpp
+myErrors.cpp(3): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  particleBatch2D.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\particleBatch2D.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  particleEngine2D.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\particleBatch2D.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  picoPNG.cpp
+  resourceManager.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\GLTexture.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  screenList.cpp
+screenList.cpp(38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  shaderProgram.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\shaderProgram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  sprite.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\sprite.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  spriteBatch.cpp
+spriteBatch.cpp(3): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  spriteFont.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\spriteFont.h(25): fatal error C1083: Cannot open include file: 'TTF/SDL_ttf.h': No such file or directory
+  textureCache.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\GLTexture.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Compiling...
+  timing.cpp
+timing.cpp(3): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  window.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\window.h(3): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory

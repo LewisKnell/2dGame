@@ -1,0 +1,19 @@
+﻿  mainGame.cpp
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(217): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(226): warning C4244: 'initializing': conversion from 'float' to 'Uint32', possible loss of data
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(227): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(320): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(370): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(374): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(460): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(532): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(539): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(575): warning C4018: '<': signed/unsigned mismatch
+c:\users\lewis\documents\personal_projects\game\bullet_point\maingame.cpp(718): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\Lewis\Documents\Personal_Projects\Game\Debug\Bullet_Point.lib and object C:\Users\Lewis\Documents\Personal_Projects\Game\Debug\Bullet_Point.exp
+  Bullet_Point.vcxproj -> C:\Users\Lewis\Documents\Personal_Projects\Game\Debug\Bullet_Point.exe

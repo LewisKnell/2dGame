@@ -1,0 +1,50 @@
+﻿  stdafx.cpp
+  window.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\window.h(3): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  timing.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\timing.cpp(3): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  textureCache.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\gltexture.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  spriteFont.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\spritefont.h(25): fatal error C1083: Cannot open include file: 'TTF/SDL_ttf.h': No such file or directory
+  spriteBatch.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\spritebatch.cpp(3): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  sprite.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\sprite.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  shaderProgram.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  screenList.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\screenlist.cpp(38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  resourceManager.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\gltexture.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  picoPNG.cpp
+  particleEngine2D.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\particlebatch2d.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  particleBatch2D.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\particlebatch2d.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  myErrors.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\myerrors.cpp(3): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  LKengine.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\lkengine.cpp(6): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  ioManager.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\iomanager.cpp(20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\lewis\documents\personal_projects\game\lkengine\iomanager.cpp(26): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\lewis\documents\personal_projects\game\lkengine\iomanager.cpp(49): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\lewis\documents\personal_projects\game\lkengine\iomanager.cpp(55): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  inputManager.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\inputmanager.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  lMainGame.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\window.h(3): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  imageLoader.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\gltexture.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  GUI.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\gui.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  debugRenderer.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Generating Code...
+  Compiling...
+  camera2D.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\camera2d.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  audioEngine.cpp
+c:\users\lewis\documents\personal_projects\game\lkengine\audioengine.h(6): fatal error C1083: Cannot open include file: 'SDL\SDL_mixer.h': No such file or directory
+  Generating Code...

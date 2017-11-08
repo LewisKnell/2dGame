@@ -1,0 +1,43 @@
+﻿  stdafx.cpp
+  audioEngine.cpp
+  camera2D.cpp
+  debugRenderer.cpp
+  GUI.cpp
+GUI.cpp(251): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  imageLoader.cpp
+  lMainGame.cpp
+  inputManager.cpp
+  ioManager.cpp
+ioManager.cpp(20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+ioManager.cpp(26): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+ioManager.cpp(49): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+ioManager.cpp(55): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  LKengine.cpp
+  myErrors.cpp
+  particleBatch2D.cpp
+  particleEngine2D.cpp
+  picoPNG.cpp
+  resourceManager.cpp
+  screenList.cpp
+  shaderProgram.cpp
+  sprite.cpp
+  spriteBatch.cpp
+spriteBatch.cpp(119): warning C4018: '<': signed/unsigned mismatch
+spriteBatch.cpp(156): warning C4018: '<': signed/unsigned mismatch
+spriteBatch.cpp(187): warning C4018: '<': signed/unsigned mismatch
+  spriteFont.cpp
+  textureCache.cpp
+  Compiling...
+  timing.cpp
+timing.cpp(36): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+timing.cpp(40): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+timing.cpp(53): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+timing.cpp(56): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  window.cpp
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+SDL2_mixer.lib(SDL2_mixer.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIBase-0.lib(CEGUIBase-0.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+CEGUIOpenGLRenderer-0.lib(CEGUIOpenGLRenderer-0.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+  LKengine.vcxproj -> C:\Users\Lewis\Documents\Personal_Projects\Game\Release\LKengine.lib

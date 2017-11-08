@@ -1,0 +1,24 @@
+﻿  mainGame.cpp
+mainGame.cpp(40): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(45): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(217): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+mainGame.cpp(226): warning C4244: 'initializing': conversion from 'float' to 'Uint32', possible loss of data
+mainGame.cpp(227): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+mainGame.cpp(285): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(292): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(295): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(320): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(370): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(374): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(460): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+mainGame.cpp(532): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(539): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(575): warning C4018: '<': signed/unsigned mismatch
+mainGame.cpp(718): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\Lewis\Documents\Personal_Projects\Game\Release\Bullet_Point.lib and object C:\Users\Lewis\Documents\Personal_Projects\Game\Release\Bullet_Point.exp
+  Generating code
+  1 of 2696 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    58 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bullet_Point.vcxproj -> C:\Users\Lewis\Documents\Personal_Projects\Game\Release\Bullet_Point.exe
